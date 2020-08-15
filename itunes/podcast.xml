@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    version="2.0">
+    <channel>
+        <title>Benefício da Dúvida</title>
+        <description> O Benefício da Dúvida é um Podcast com Tiago Gonçalves, à conversa com convidados que nos contam histórias sempre temperadas com boa disposição e sentido crítico.
+</description>
+        <link>https://tvieiragoncalves.github.io/</link>
+        <copyright>Tiago Gonçalves 2015</copyright>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>pt</language>
+        <lastBuildDate>Tue, 26 Jul 2015 11:23:43 +0000</lastBuildDate>
+        <managingEditor>tvieiragoncalves@gmail.com</managingEditor>
+        <pubDate>Tue, 26 Jul 2015 11:02:42 +0000</pubDate>
+        <generator>FeedForAll v2.0 (2.0.4.0) unlicensed version http://www.feedforall.com</generator>
+        <itunes:subtitle>Conversa com convidados que nos contam histórias sempre temperadas com boa disposição e sentido crítico.</itunes:subtitle>
+        <itunes:summary>O Benefício da Dúvida é um Podcast com Tiago Gonçalves, à conversa com convidados que nos contam histórias sempre temperadas com boa disposição e sentido crítico.</itunes:summary>
+        <itunes:author>Tiago Gonçalves</itunes:author>
+        <itunes:owner>
+            <itunes:name>Tiago Gonçalves</itunes:name>
+            <itunes:email>tvieiragoncalves@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Personal Journals"/>
+        </itunes:category>
+        <itunes:keywords>Portugal, humor , comédia, programa de autor, sotrytelling, pessoal, benefício da dúvida, beneficio da duvida, storytelling, entrevista, biografia</itunes:keywords>
+        <itunes:image href="https://raw.githubusercontent.com/tvieiragoncalves/tvieiragoncalves.github.io/master/itunes/logo.jpg"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+      <item>
+            <title>Tiago Rodrigues - músico
+</title>
+            <description>Tiago Rodrigues, um músico multifacetado, faz-nos companhia no 3º benefício da dúvida.
+O Maestro da Atípica orquestra, instrumentista dos Postas de Bacalhau, Guitarrista da AMEIABESTA, e com participações nos projectos DOIIS e Pião das Nicas, entre muitos outros, mostra-nos como se pode fazer uma composiç ão híbrida relativizando os limites tradionais de cada categoria musical. Destacamos nesta conversa, alguns concertos que marcaram positivamente a experiência de palco do Tiago, com um particular olhar sobre o concerto no anfiteatro do monte de S.Domingos no âmbito dos encontros atípicos, enquadrados na programação cultural da rota do românico.
+Terminamos com um olhar sobre as vicissitudes do processo criativo e com a apresentação do tema - Eu vi este povo a lutar da Atípica Orquestra.
+
+ </description>
+            <link>https://raw.githubusercontent.com/tvieiragoncalves/tvieiragoncalves.github.io/master/audio/bdd-tr.mp3</link>
+            <enclosure url="https://raw.githubusercontent.com/tvieiragoncalves/tvieiragoncalves.github.io/master/audio/bdd-tr.mp3" length="63015868" type="audio/mpeg"/>
+            <guid isPermaLink="https://raw.githubusercontent.com/tvieiragoncalves/tvieiragoncalves.github.io/master/audio/bdd-tr.mp3"></guid>
+            <pubDate>Tue, 02 Aug 2019 12:03:42 +0000</pubDate>
+            <itunes:subtitle>Tiago Rodrigues, um músico multifacetado, faz-nos companhia no 3º benefício da dúvida.
+O Maestro da Atípica orquestra, instrumentista dos Postas de Bacalhau, Guitarrista da AMEIABESTA, e com participações nos projectos DOIIS e Pião das Nicas, entre muitos outros, mostra-nos como se pode fazer uma composiç ão híbrida relativizando os limites tradionais de cada categoria musical. Destacamos nesta conversa, alguns concertos que marcaram positivamente a experiência de palco do Tiago, com um particular olhar sobre o concerto no anfiteatro do monte de S.Domingos no âmbito dos encontros atípicos, enquadrados na programação cultural da rota do românico.
+Terminamos com um olhar sobre as vicissitudes do processo criativo e com a apresentação do tema - Eu vi este povo a lutar da Atípica Orquestra.
+
+ </itunes:subtitle>
+            <itunes:summary>Tiago Rodrigues, um músico multifacetado, faz-nos companhia no 3º benefício da dúvida.
+O Maestro da Atípica orquestra, instrumentista dos Postas de Bacalhau, Guitarrista da AMEIABESTA, e com participações nos projectos DOIIS e Pião das Nicas, entre muitos outros, mostra-nos como se pode fazer uma composiç ão híbrida relativizando os limites tradionais de cada categoria musical. Destacamos nesta conversa, alguns concertos que marcaram positivamente a experiência de palco do Tiago, com um particular olhar sobre o concerto no anfiteatro do monte de S.Domingos no âmbito dos encontros atípicos, enquadrados na programação cultural da rota do românico.
+Terminamos com um olhar sobre as vicissitudes do processo criativo e com a apresentação do tema - Eu vi este povo a lutar da Atípica Orquestra.
+
+
+</itunes:summary>
+            <itunes:duration>32:49</itunes:duration>
+            <itunes:author>Tiago Gonçalves</itunes:author>
+            <itunes:keywords>tiago rodrigues, atípica orquestra, musica, jazz, benefício da dúvida</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+    </channel>
+</rss>
