@@ -9,9 +9,9 @@
         <copyright>Tiago Gonçalves 2020</copyright>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>pt</language>
-        <lastBuildDate>Tue, 26 Jul 2015 11:23:43 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2020 11:23:43 +0000</lastBuildDate>
         <managingEditor>tvieiragoncalves@gmail.com</managingEditor>
-        <pubDate>Tue, 26 Jul 2015 11:02:42 +0000</pubDate>
+        <pubDate>Sat, 15 Aug 2020 11:02:42 +0000</pubDate>
         <generator>FeedForAll v2.0 (2.0.4.0) unlicensed version http://www.feedforall.com</generator>
         <itunes:subtitle>Conversa com convidados que nos contam histórias sempre temperadas com boa disposição e sentido crítico.</itunes:subtitle>
         <itunes:summary>Conversa com convidados que nos contam histórias sempre temperadas com boa disposição e sentido crítico.</itunes:summary>
@@ -24,36 +24,29 @@
             <itunes:category text="Interviews"/>
         </itunes:category>
         <itunes:keywords>Portugal, humor , comédia, programa de autor, sotrytelling, pessoal, reunião de família, reuniao de familia, watsapp, desafios, storytelling, entrevista, biografia</itunes:keywords>
-        <itunes:image href="https://raw.githubusercontent.com/tvieiragoncalves/tvieiragoncalves.github.io/master/itunes/logo.png"/>
+        <itunes:image href="https://raw.githubusercontent.com/tvieiragoncalves/reuniaofamilia/master/itunes/logo.png"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:block>no</itunes:block>
       <item>
-            <title>Tiago Rodrigues - músico
+            <title>Episódio 1 - Reunião de família
 </title>
-            <description>Tiago Rodrigues, um músico multifacetado, faz-nos companhia no 3º benefício da dúvida.
-O Maestro da Atípica orquestra, instrumentista dos Postas de Bacalhau, Guitarrista da AMEIABESTA, e com participações nos projectos DOIIS e Pião das Nicas, entre muitos outros, mostra-nos como se pode fazer uma composiç ão híbrida relativizando os limites tradionais de cada categoria musical. Destacamos nesta conversa, alguns concertos que marcaram positivamente a experiência de palco do Tiago, com um particular olhar sobre o concerto no anfiteatro do monte de S.Domingos no âmbito dos encontros atípicos, enquadrados na programação cultural da rota do românico.
-Terminamos com um olhar sobre as vicissitudes do processo criativo e com a apresentação do tema - Eu vi este povo a lutar da Atípica Orquestra.
+            <description>A reunião de família estreia com a participação de Tiago Gonçalves e Joel Dias. Os dois primos levam-nos à descoberta do que existe de extraordinário e curioso nos assuntos mundanos. No nosso podcast introduzimos a participação por watsapp dos amigos dos primos para apimentar a conversa, não terminando sem o desafio final, desta vez um desafio que deixou um amigo dos primos boqueaberto.
 
  </description>
-            <link>https://raw.githubusercontent.com/tvieiragoncalves/tvieiragoncalves.github.io/master/audio/bdd-tr.mp3</link>
-            <enclosure url="https://raw.githubusercontent.com/tvieiragoncalves/tvieiragoncalves.github.io/master/audio/bdd-tr.mp3" length="63015868" type="audio/mpeg"/>
-            <guid isPermaLink="https://raw.githubusercontent.com/tvieiragoncalves/tvieiragoncalves.github.io/master/audio/bdd-tr.mp3"></guid>
-            <pubDate>Tue, 02 Aug 2019 12:03:42 +0000</pubDate>
-            <itunes:subtitle>Tiago Rodrigues, um músico multifacetado, faz-nos companhia no 3º benefício da dúvida.
-O Maestro da Atípica orquestra, instrumentista dos Postas de Bacalhau, Guitarrista da AMEIABESTA, e com participações nos projectos DOIIS e Pião das Nicas, entre muitos outros, mostra-nos como se pode fazer uma composiç ão híbrida relativizando os limites tradionais de cada categoria musical. Destacamos nesta conversa, alguns concertos que marcaram positivamente a experiência de palco do Tiago, com um particular olhar sobre o concerto no anfiteatro do monte de S.Domingos no âmbito dos encontros atípicos, enquadrados na programação cultural da rota do românico.
-Terminamos com um olhar sobre as vicissitudes do processo criativo e com a apresentação do tema - Eu vi este povo a lutar da Atípica Orquestra.
+            <link>https://raw.githubusercontent.com/tvieiragoncalves/reuniaofamilia/master/audio/rf1ep.mp3</link>
+            <enclosure url="https://raw.githubusercontent.com/tvieiragoncalves/reuniaofamilia/master/audio/rf1ep.mp3" length="28537961" type="audio/mpeg"/>
+            <guid isPermaLink="https://raw.githubusercontent.com/tvieiragoncalves/reuniaofamilia/master/audio/rf1ep.mp3"></guid>
+            <pubDate>Tue, 15 Aug 2020 12:03:42 +0000</pubDate>
+            <itunes:subtitle>A reunião de família estreia com a participação de Tiago Gonçalves e Joel Dias. Os dois primos levam-nos à descoberta do que existe de extraordinário e curioso nos assuntos mundanos. No nosso podcast introduzimos a participação por watsapp dos amigos dos primos para apimentar a conversa, não terminando sem o desafio final, desta vez um desafio que deixou um amigo dos primos boqueaberto.
 
  </itunes:subtitle>
-            <itunes:summary>Tiago Rodrigues, um músico multifacetado, faz-nos companhia no 3º benefício da dúvida.
-O Maestro da Atípica orquestra, instrumentista dos Postas de Bacalhau, Guitarrista da AMEIABESTA, e com participações nos projectos DOIIS e Pião das Nicas, entre muitos outros, mostra-nos como se pode fazer uma composiç ão híbrida relativizando os limites tradionais de cada categoria musical. Destacamos nesta conversa, alguns concertos que marcaram positivamente a experiência de palco do Tiago, com um particular olhar sobre o concerto no anfiteatro do monte de S.Domingos no âmbito dos encontros atípicos, enquadrados na programação cultural da rota do românico.
-Terminamos com um olhar sobre as vicissitudes do processo criativo e com a apresentação do tema - Eu vi este povo a lutar da Atípica Orquestra.
-
+            <itunes:summary>A reunião de família estreia com a participação de Tiago Gonçalves e Joel Dias. Os dois primos levam-nos à descoberta do que existe de extraordinário e curioso nos assuntos mundanos. No nosso podcast introduzimos a participação por watsapp dos amigos dos primos para apimentar a conversa, não terminando sem o desafio final, desta vez um desafio que deixou um amigo dos primos boqueaberto.
 
 </itunes:summary>
-            <itunes:duration>32:49</itunes:duration>
+            <itunes:duration>19:48</itunes:duration>
             <itunes:author>Tiago Gonçalves</itunes:author>
-            <itunes:keywords>tiago rodrigues, atípica orquestra, musica, jazz, benefício da dúvida</itunes:keywords>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:keywords>watsapp, gravidez indesejada, cumprimentos, reunião de família</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
             <itunes:block>no</itunes:block>
         </item>
     </channel>
