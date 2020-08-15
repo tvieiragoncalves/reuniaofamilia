@@ -3,11 +3,10 @@
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     version="2.0">
     <channel>
-        <title>Benefício da Dúvida</title>
-        <description> O Benefício da Dúvida é um Podcast com Tiago Gonçalves, à conversa com convidados que nos contam histórias sempre temperadas com boa disposição e sentido crítico.
-</description>
+        <title>Reunião de família</title>
+        <description> Tiago Gonçalves e Joel Dias, os primos, encontram-se para o derradeito tête-à-tête sobre assuntos mundanos. Esta conversa temperada com boa disposição inclui ainda a participação de amigos e vários desafios.
         <link>https://tvieiragoncalves.github.io/</link>
-        <copyright>Tiago Gonçalves 2015</copyright>
+        <copyright>Tiago Gonçalves 2020</copyright>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>pt</language>
         <lastBuildDate>Tue, 26 Jul 2015 11:23:43 +0000</lastBuildDate>
@@ -15,17 +14,17 @@
         <pubDate>Tue, 26 Jul 2015 11:02:42 +0000</pubDate>
         <generator>FeedForAll v2.0 (2.0.4.0) unlicensed version http://www.feedforall.com</generator>
         <itunes:subtitle>Conversa com convidados que nos contam histórias sempre temperadas com boa disposição e sentido crítico.</itunes:subtitle>
-        <itunes:summary>O Benefício da Dúvida é um Podcast com Tiago Gonçalves, à conversa com convidados que nos contam histórias sempre temperadas com boa disposição e sentido crítico.</itunes:summary>
+        <itunes:summary>Conversa com convidados que nos contam histórias sempre temperadas com boa disposição e sentido crítico.</itunes:summary>
         <itunes:author>Tiago Gonçalves</itunes:author>
         <itunes:owner>
             <itunes:name>Tiago Gonçalves</itunes:name>
             <itunes:email>tvieiragoncalves@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:category text="Society &amp; Culture">
-            <itunes:category text="Personal Journals"/>
+        <itunes:category text="Comedy">
+            <itunes:category text="Interviews"/>
         </itunes:category>
-        <itunes:keywords>Portugal, humor , comédia, programa de autor, sotrytelling, pessoal, benefício da dúvida, beneficio da duvida, storytelling, entrevista, biografia</itunes:keywords>
-        <itunes:image href="https://raw.githubusercontent.com/tvieiragoncalves/tvieiragoncalves.github.io/master/itunes/logo.jpg"/>
+        <itunes:keywords>Portugal, humor , comédia, programa de autor, sotrytelling, pessoal, reunião de família, reuniao de familia, watsapp, desafios, storytelling, entrevista, biografia</itunes:keywords>
+        <itunes:image href="https://raw.githubusercontent.com/tvieiragoncalves/tvieiragoncalves.github.io/master/itunes/logo.png"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:block>no</itunes:block>
       <item>
